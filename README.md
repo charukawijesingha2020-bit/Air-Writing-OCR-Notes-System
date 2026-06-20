@@ -73,3 +73,14 @@ Run the application:
 python app.py
 ```
  
+
+## Controls
+
+| Key | Function            |
+| --- | ------------------- |
+| S   | Save Drawing        |
+| O   | OCR Recognition     |
+| P   | Export Notes as PDF |
+| Q   | Quit Application    |
+
+ 
