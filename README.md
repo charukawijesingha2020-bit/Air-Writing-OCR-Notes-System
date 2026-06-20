@@ -44,4 +44,26 @@ Clone the repository:
 git clone https://github.com/charukawijesingha2020-bit/Air-Writing-OCR-Notes-System.git
 cd Air-Writing-OCR-Notes-System
 ```
+## Project Workflow
+
+Hand Gesture Detection
+→ Air Drawing
+→ OCR Recognition
+→ Automatic Notes Storage
+→ PDF Export
+
+## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/charukawijesingha2020-bit/Air-Writing-OCR-Notes-System.git
+cd Air-Writing-OCR-Notes-System
+```
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
  
