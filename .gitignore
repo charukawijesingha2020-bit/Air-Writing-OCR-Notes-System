@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+*.pyc
+
+images/
+notes/
+
+PyAudio-0.2.11-cp311-cp311-win_amd64.whl
