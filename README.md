@@ -10,4 +10,14 @@ An AI-powered Smart Whiteboard that allows users to draw in the air using hand g
 * Color Selection Toolbar
 * Eraser Tool
 * Clear Canvas Function
+
+## Technologies Used
+
+* Python
+* OpenCV
+* MediaPipe
+* NumPy
+* Tesseract OCR
+* ReportLab
+
  
