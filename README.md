@@ -83,4 +83,17 @@ python app.py
 | P   | Export Notes as PDF |
 | Q   | Quit Application    |
 
+## Project Structure
+
+```text
+Air-Writing-OCR-Notes-System/
+│
+├── app.py
+├── hand_detector.py
+├── mic_diag.py
+├── requirements.txt
+├── images/
+├── notes/
+└── README.md
+```
  
