@@ -97,3 +97,26 @@ Air-Writing-OCR-Notes-System/
 └── README.md
 ```
  
+## Future Improvements
+
+* Voice Commands
+* Multi-Page Whiteboard
+* AI Note Summarization
+* Shape Recognition
+* Cloud Storage Integration
+
+## Author
+
+Charuka Wijesingha
+
+Software Engineering Undergraduate
+SLIIT
+
+ 
+
+ 
+
+
+
+ 
+
