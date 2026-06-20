@@ -20,4 +20,12 @@ An AI-powered Smart Whiteboard that allows users to draw in the air using hand g
 * Tesseract OCR
 * ReportLab
 
+ ## Project Workflow
+
+Hand Gesture Detection
+→ Air Drawing
+→ OCR Recognition
+→ Automatic Notes Storage
+→ PDF Export
+
  
