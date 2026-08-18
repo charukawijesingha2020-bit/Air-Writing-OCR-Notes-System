@@ -9,6 +9,7 @@ try:
 except Exception as e:
     print('List error:', type(e).__name__, e)
 try:
+    
     with sr.Microphone() as s:
         print('Opened default mic')
 except Exception as e:
