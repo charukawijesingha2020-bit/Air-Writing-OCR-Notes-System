@@ -1,5 +1,6 @@
 import speech_recognition as sr
 print('SR OK', getattr(sr, '__version__', 'unknown'))
+
 try:
     names = sr.Microphone.list_microphone_names()
     print('Microphones:')
