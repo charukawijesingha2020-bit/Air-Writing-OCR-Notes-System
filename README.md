@@ -95,6 +95,7 @@ Air-Writing-OCR-Notes-System/
 ├── notes/
 └── README.md
 ```
+
  
 ## Future Improvements
 
